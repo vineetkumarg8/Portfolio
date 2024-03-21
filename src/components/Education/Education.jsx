@@ -39,10 +39,16 @@ class Education extends Component {
                         Experience 
                       </h2>
                       <h5>
-                          Atlas Apps <span>June(2023)-Decemebr(2023)</span>
+                          Atlas Apps <span>June(2023)-December(2023)</span>
                       </h5>
                       
-                      <p><i>
+                      <p>
+                        I worked as <b> Software Developer </b> at
+                         <a target='_blank' href='https://atlasapps.co.uk/'>
+                           <b>Atlas Apps</b>
+                         </a>{' '}
+                         <br></br>
+                        <i>
                       - Designed and developed web application with functionable UI cmponents and its integrartion with backend in Nodejs
                       <br></br>
                       - Collaborated closely with the design team to transform wireframes and mock-ups into functional user interfaces, providing valuable input on UI/UX best practices to optimize user interaction and satisfaction.
