@@ -43,9 +43,9 @@ class Education extends Component {
                       </h5>
                       
                       <p>
-                        I worked as <b> Software Developer </b> at
+                        I worked as <b> Software Developer </b> at{' '}
                          <a target='_blank' href='https://atlasapps.co.uk/'>
-                           <b>Atlas Apps</b>
+                            <b>Atlas Apps</b>
                          </a>{' '}
                          <br></br>
                         <i>
