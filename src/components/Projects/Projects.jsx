@@ -48,7 +48,7 @@ const webItem = [
     desc: 'It is a e-commerce app built in a React. This is 100% Javascript.',
     image: Invoice,
     color: '#536878',
-    githubLink: ''
+    githubLink: 'https://github.com/vineetkumarg8/AI-Enabled-B2B-FINTECH-Management/tree/main'
   },
   // {
   //   link: 'https://courses-portal.netlify.app/',
