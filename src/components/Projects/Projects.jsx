@@ -20,6 +20,7 @@ import github from '../images/github.png';
 import retailstore from '../images/retailstore.png';
 import Productdetails from '../images/productdetails.png';
 import Map from '../images/map.png';
+import Invoice from '../images/Invoice.png';
 
 // Web projects
 const webItem = [
