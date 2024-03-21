@@ -2,7 +2,7 @@
 
 Live Preview at : https://www.buymeacoffee.com/vineetkumao
 
-### Hi there 👋 I am Sachin, a full stack web and app developer. I love to build new things that excites me a lot.
+### Hi there 👋 I am Vineet, a full stack web and app developer. I love to build new things that excites me a lot.
 
 # buy-me-a-coffee
 
