@@ -42,7 +42,7 @@ class Education extends Component {
                           Atlas Apps <span>June(2023)-Decemebr(2023)</span>
                       </h5>
                       
-                      <p><i></i>
+                      <p><i>
                       - Designed and developed web application with functionable UI cmponents and its integrartion with backend in Nodejs
                       <br></br>
                       - Collaborated closely with the design team to transform wireframes and mock-ups into functional user interfaces, providing valuable input on UI/UX best practices to optimize user interaction and satisfaction.
@@ -51,7 +51,7 @@ class Education extends Component {
                       <br></br>
                      <hr></hr> 
                         <b>Skills:</b> React js, Node js, Express js,Postgres,Figma
-                    
+                      </i>
                       </p>
                       <h5>
                           Highradius Corporation <span>January(2022)-September(2022)</span>
