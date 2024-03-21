@@ -41,6 +41,15 @@ const webItem = [
     color: '#0FFFFF',
     githubLink: 'https://github.com/vineetkumarg8/E-commerce-App/tree/main'
   },
+  {
+    link: 'https://drive.google.com/file/d/1ma4deNGn0aF4oW27GTSH0jssG5VfT-LU/view?usp=drive_link',
+    title: 'Invoice Management App',
+    techStack: 'Tech Stack: React js , Java ,Mysql,ML',
+    desc: 'It is a e-commerce app built in a React. This is 100% Javascript.',
+    image: Invoice,
+    color: '#536878',
+    githubLink: ''
+  },
   // {
   //   link: 'https://courses-portal.netlify.app/',
   //   title: 'Course Selling App',
