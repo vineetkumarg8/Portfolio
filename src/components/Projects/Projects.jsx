@@ -130,14 +130,14 @@ const webItem = [
       'https://github.com/vineetkumarg8/Task_Project_Frontend-main'
   },
   {
-    link: 'https://github.com/vineetkumarg8/Hosing-price/blob/main/Housingpriceprediction.ipynb',
+    link: 'https://github.com/vineetkumarg8/python-projects/blob/main/Housingpriceprediction.ipynb',
     title: 'Housing Price',
     techStack: 'python,jupyter Notebook,Numpy,pandas,Seaborn,folium,Ipywidget,Sklearn',
     desc: 'Prediction Model',
     image: Map,
     color: '#F08080',
     githubLink:
-      'https://github.com/vineetkumarg8/Hosing-price'
+      'https://github.com/vineetkumarg8/python-projects'
   }
   
 ];
