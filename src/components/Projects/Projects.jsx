@@ -137,7 +137,7 @@ const webItem = [
     image: Map,
     color: '#F08080',
     githubLink:
-      'https://github.com/vineetkumarg8/Hosing-price?tab=readme-ov-file'
+      'https://github.com/vineetkumarg8/Hosing-price'
   }
   
 ];
