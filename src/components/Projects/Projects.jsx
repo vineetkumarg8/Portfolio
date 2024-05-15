@@ -25,15 +25,6 @@ import Invoice from '../images/Invoice.png';
 // Web projects
 const webItem = [
   {
-    link: 'https://www.profilee.info/',
-    title: 'Profilee - An OS link in bio',
-    techStack: 'Tech Stack: Next JS, Tailwind, Typescript, Prisma, AWS S3',
-    desc: 'Profilee is an open source profile link bio page builder',
-    image: profilee,
-    color: '#00CCFF',
-    // githubLink: 'https://github.com/mittalsam98/profilee'
-  },
-  {
     link: 'https://www.youtube.com/watch?v=wJDmXz3vd8Y',
     title: 'E-Commerce app',
     techStack: 'Tech Stack: Monorepo, Typescript, MERN',
