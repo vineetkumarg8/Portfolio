@@ -1,6 +1,6 @@
 # React-Portfolio made with love and with beautiful UI.
 
-Live Preview at : https://portfolio-sand-iota-62.vercel.app/
+Live Preview at : https://portfolio-vineetkumarg8s-projects.vercel.app/
 ### Hi there 👋 I am Vineet, a full stack web and app developer. I love to build new things that excites me a lot.
 
 # buy-me-a-coffee
