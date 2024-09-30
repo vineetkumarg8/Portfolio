@@ -49,7 +49,7 @@ class Education extends Component {
                          </a>{' '}
                          <br></br>
                         <i>
-                      - Designed and developed web application with functionable UI cmponents and its integrartion with backend in Nodejs
+                      - Designed and developed web application with functionable UI cmponents and its integration with backend in Nodejs
                       <br></br>
                       - Collaborated closely with the design team to transform wireframes and mock-ups into functional user interfaces, providing valuable input on UI/UX best practices to optimize user interaction and satisfaction.
                       <br></br>
