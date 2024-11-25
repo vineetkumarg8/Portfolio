@@ -39,33 +39,30 @@ class Education extends Component {
                         Experience 
                       </h2>
 
-                                <h5>
-                          Atlas Apps <span>June(2023)-December(2023)</span>
+                      <h5>
+                          Akamai Technology <span>April(2024)-June(2024)</span>
                       </h5>
                       
                       <p>
-                        I worked as <b> Software Developer </b> at{' '}
-                         <a target='_blank' href='https://atlasapps.co.uk/'>
-                            <b>Atlas Apps</b>
+                        I got trained in <b> Software Applications,Netwoking fundamentals and databases </b> at{' '}
+                         <a target='_blank' href='https://www.akamai.com/'>
+                            <b>Akamai Technology</b>
                          </a>{' '}
                          <br></br>
                         <i>
-                      - Designed and developed web application with functionable UI cmponents and its integration with backend in Nodejs
+                      - Ranking in the top 5 out of 100 participants in the global tech associate hiring challenge.
                       <br></br>
-                      - Collaborated closely with the design team to transform wireframes and mock-ups into functional user interfaces, providing valuable input on UI/UX best practices to optimize user interaction and satisfaction.
+                      - Content Delivery Networks (CDNs): Learning how CDNs work to distribute content efficiently and securely across the
+                        globe,how it optimizes web performance.Deepening knowledge of web protocols like HTTP/HTTPS, TCP/IP, and
+                        DNS.Develop APIs to interact with various services and systems.
                       <br></br>
-                      - Integrated with backend services , Restful APIs , and third-party libraries.
+                      - Worked with MySQL databases to manage and structure data, implementing optimized queries to support real-time 
+                        data requirements.
                       <br></br>
-                     <hr></hr> 
-                        <b>Skills:</b> React js, Node js, Express js,Postgres,Figma
+                      <hr></hr> 
+                        <b>Skills:</b> Web applications, Networks, Linux, MySQL.
                       </i>
                       </p>
-
-
-
-
-
-                      
                       <h5>
                           Atlas Apps <span>June(2023)-December(2023)</span>
                       </h5>
@@ -77,14 +74,14 @@ class Education extends Component {
                          </a>{' '}
                          <br></br>
                         <i>
-                      - Designed and developed web application with functionable UI cmponents and its integration with backend in Nodejs
+                      - Designed and developed web application with functionable UI cmponents and its integration with backend in Nodejs.
                       <br></br>
                       - Collaborated closely with the design team to transform wireframes and mock-ups into functional user interfaces, providing valuable input on UI/UX best practices to optimize user interaction and satisfaction.
                       <br></br>
                       - Integrated with backend services , Restful APIs , and third-party libraries.
                       <br></br>
                      <hr></hr> 
-                        <b>Skills:</b> React js, Node js, Express js,Postgres,Figma
+                        <b>Skills:</b> React js, Node js, Express js,Postgres,Figma.
                       </i>
                       </p>
                       <h5>
