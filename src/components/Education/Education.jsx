@@ -38,31 +38,26 @@ class Education extends Component {
                       <h2>
                         Experience 
                       </h2>
+                  <h5>
+                      Akamai Technology <span>January 2024 - March 2024</span>
+                  </h5>
 
-                      <h5>
-                          Akamai Technology <span>April(2024)-June(2024)</span>
-                      </h5>
-                      
-                      <p>
-                        I got trained in <b> Software Applications,Netwoking fundamentals and databases </b> at{' '}
-                         <a target='_blank' href='https://www.akamai.com/'>
-                            <b>Akamai Technology</b>
-                         </a>{' '}
-                         <br></br>
-                        <i>
-                      - Ranking in the top 5 out of 100 participants in the global tech associate hiring challenge.
-                      <br></br>
-                      - Content Delivery Networks (CDNs): Learning how CDNs work to distribute content efficiently and securely across the
-                        globe,how it optimizes web performance.Deepening knowledge of web protocols like HTTP/HTTPS, TCP/IP, and
-                        DNS.Develop APIs to interact with various services and systems.
-                      <br></br>
-                      - Worked with MySQL databases to manage and structure data, implementing optimized queries to support real-time 
-                        data requirements.
-                      <br></br>
-                      <hr></hr> 
-                        <b>Skills:</b> Web applications, Networks, Linux, MySQL.
-                      </i>
-                      </p>
+                  <p>
+                  I received training in <strong>Software Applications, Networking Fundamentals, and Databases</strong> at  
+                  <a target='_blank' rel="noopener noreferrer" href='https://www.akamai.com/'>
+                  <strong>Akamai Technology</strong>
+                  </a>.
+                  </p>
+
+                  <ul>
+                  <li>Ranked in the <strong>top 5</strong> out of 100 participants in the global Tech Associate hiring challenge.</li>
+                  <li>Gained in-depth knowledge of <strong>Content Delivery Networks (CDNs)</strong>, learning how they optimize web performance, enhance security, and distribute content efficiently worldwide.</li>
+                  <li>Explored web protocols like <strong>HTTP/HTTPS, TCP/IP, and DNS</strong>, along with API development to interact with various services.</li>
+                  <li>Worked with <strong>MySQL databases</strong>, optimizing queries to handle real-time data efficiently.</li>
+                  </ul>
+
+                  <p><strong>Skills:</strong> Web Applications, Networks, Linux, MySQL.</p>
+
                       <h5>
                           Atlas Apps <span>June(2023)-December(2023)</span>
                       </h5>
