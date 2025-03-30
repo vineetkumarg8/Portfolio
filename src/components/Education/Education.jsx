@@ -42,7 +42,7 @@ class Education extends Component {
                       </h5>
                       
                   <p>
-                      I got trained in <b> Software Applications,Netwoking fundamentals and databases </b> at{' '}
+                      I got trained in <b> Software Applications,Networking fundamentals and databases </b> at{' '}
                       <a target='_blank' href='https://www.akamai.com/'>
                         <b>Akamai Technology</b>
                         </a>{' '}
@@ -63,7 +63,7 @@ class Education extends Component {
                       </p>
 
                       <h5>
-                          Atlas Apps <span>June(2023)-December(2023)</span>
+                          Atlas Apps <span>June(2023)-March(2024)</span>
                       </h5>
                       
                       <p>
