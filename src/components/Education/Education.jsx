@@ -39,27 +39,25 @@ class Education extends Component {
                         Experience 
                       </h2>
                       <h5>
-                          MACHINDIA(TATA STEEL) <span>March(2024)-March(2025)</span>
+                          MACH INDIA(TATA STEEL) <span>March(2024)-March(2025)</span>
                       </h5>
 
                       <p>
-                      I got trained in <b> Software Applications,Networking fundamentals and databases </b> at{' '}
-                      <a target='_blank' href='https://www.akamai.com/'>
-                        <b>Akamai Technology</b>
+                      Worked in product team to develop Driver Fatigue Monitoring System (DFMS) Application using mutilayer architecture, ensuring high scalability and performance.</b> at{' '}
+                      <a target='_blank' href='http://machindia.com/index.html'>
+                        <b>Mach India</b>
                         </a>{' '}
                         <br></br>
                         <i>
-                    - Ranking in the top 5 out of 100 participants in the global tech associate hiring challenge.
+                    - Designed & implemented an interactive UI for owner and vehicle entry, integrating JQuery with the database for seamless query execution and analysis.
                       <br></br>
-                    - Content Delivery Networks (CDNs): Learning how CDNs work to distribute content efficiently and securely across the
-                      globe,how it optimizes web performance.Deepening knowledge of web protocols like HTTP/HTTPS, TCP/IP, and
-                      DNS.Develop APIs to interact with various services and systems.
+                    - Ledfull-stack development, ensuring smooth coordination between front-end and back-end updates for consistency, responsiveness, and efficiency.
                       <br></br>
-                    - Worked with MySQL databases to manage and structure data, implementing optimized queries to support real-time 
-                      data requirements.
+                    - Improved andoptimized MySQL queries, Creating indexes to enhance query speed handling real-time data for multiple micro services, including video streaming, images, GPS tracking, and alerts alarm.
                       <br></br>
+                    - Enhanceddata integrity by Implementing validation & integrity constraints to maintain high data quality. Removing duplicate records using unique constraints and duplication scripts.
                       <hr></hr> 
-                        <b>Skills:</b> Web applications, Networks, Linux, MySQL.
+                        <b>Skills:</b> Java, Python, Spring mvc, Jquery, GCP, Microservices and Mysql.
                       </i>
                       </p>
 
