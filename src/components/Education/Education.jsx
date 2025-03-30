@@ -43,8 +43,9 @@ class Education extends Component {
                       </h5>
 
                       <p>
-                      Worked in product team to develop Driver Fatigue Monitoring System (DFMS) Application using mutilayer architecture, ensuring high scalability and performance.</b> at{' '}
-                      <a target='_blank' href='http://machindia.com/index.html'>
+                      Worked in product team to develop Driver Fatigue Monitoring System (DFMS) Application using mutilayer architecture, 
+                        ensuring high scalability and performance.</b> at{' '}
+                        <a target='_blank' href='http://machindia.com/index.html'>
                         <b>Mach India</b>
                         </a>{' '}
                         <br></br>
@@ -107,7 +108,7 @@ class Education extends Component {
                         <b>Skills:</b> React js, Node js, Express js,Postgres,Figma.
                       </i>
                       </p>
-                      <h5>
+{/*                       <h5>
                           Highradius Corporation <span>January(2022)-September(2022)</span>
                       </h5>
                       <p>
@@ -133,7 +134,7 @@ class Education extends Component {
                           <b>Skills:</b> Full-Stack Development · Web Technologies · Java · JavaScript · Redux.js · REST APIs · MySQL · RDBMS · Amazon Web Services (AWS) · Jira · Node.js · Software Development · SQL · Databases · Agile Methodologies
                         </i>{' '}
                        
-                      </p>
+                      </p> */}
                     
                     </div>
                   </article>
