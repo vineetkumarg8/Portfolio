@@ -37,11 +37,37 @@ class Education extends Component {
                     <div className={classes.label}>
                       <h2>
                         Experience 
-                      </h2><h5>
+                      </h2>
+                      <h5>
+                          MACHINDIA(TATA STEEL) <span>March(2024)-March(2025)</span>
+                      </h5>
+
+                      <p>
+                      I got trained in <b> Software Applications,Networking fundamentals and databases </b> at{' '}
+                      <a target='_blank' href='https://www.akamai.com/'>
+                        <b>Akamai Technology</b>
+                        </a>{' '}
+                        <br></br>
+                        <i>
+                    - Ranking in the top 5 out of 100 participants in the global tech associate hiring challenge.
+                      <br></br>
+                    - Content Delivery Networks (CDNs): Learning how CDNs work to distribute content efficiently and securely across the
+                      globe,how it optimizes web performance.Deepening knowledge of web protocols like HTTP/HTTPS, TCP/IP, and
+                      DNS.Develop APIs to interact with various services and systems.
+                      <br></br>
+                    - Worked with MySQL databases to manage and structure data, implementing optimized queries to support real-time 
+                      data requirements.
+                      <br></br>
+                      <hr></hr> 
+                        <b>Skills:</b> Web applications, Networks, Linux, MySQL.
+                      </i>
+                      </p>
+
+                      <h5>
                           Akamai Technology <span>January(2024)-March(2024)</span>
                       </h5>
                       
-                  <p>
+                      <p>
                       I got trained in <b> Software Applications,Networking fundamentals and databases </b> at{' '}
                       <a target='_blank' href='https://www.akamai.com/'>
                         <b>Akamai Technology</b>
