@@ -38,8 +38,9 @@ class Education extends Component {
                       <h2>
                         Experience 
                       </h2>
+                      
                       <h5>
-                          MACH INDIA(TATA STEEL) <span>March(2024)-March(2025)</span>
+                          MACH INDIA(TATA STEEL) <span>March(2024)-Present</span>
                       </h5>
 
                       <p>
@@ -50,13 +51,16 @@ class Education extends Component {
                         </a>{' '}
                         <br></br>
                         <i>
-                    - Designed & implemented an interactive UI for owner and vehicle entry, integrating JQuery with the database for seamless query execution and analysis.
+                    - Designed & implemented an interactive UI for owner and vehicle entry, integrating JQuery with the database for seamless query 
+                      execution and analysis.
                       <br></br>
                     - Ledfull-stack development, ensuring smooth coordination between front-end and back-end updates for consistency, responsiveness, and efficiency.
                       <br></br>
-                    - Improved andoptimized MySQL queries, Creating indexes to enhance query speed handling real-time data for multiple micro services, including video streaming, images, GPS tracking, and alerts alarm.
+                    - Improved andoptimized MySQL queries, Creating indexes to enhance query speed handling real-time data for multiple micro services, including
+                      video streaming, images, GPS tracking, and alerts alarm.
                       <br></br>
-                    - Enhanceddata integrity by Implementing validation & integrity constraints to maintain high data quality. Removing duplicate records using unique constraints and duplication scripts.
+                    - Enhanceddata integrity by Implementing validation & integrity constraints to maintain high data quality. Removing duplicate records
+                      using unique constraints and duplication scripts.
                       <hr></hr> 
                         <b>Skills:</b> Java, Python, Spring mvc, Jquery, GCP, Microservices and Mysql.
                       </i>
