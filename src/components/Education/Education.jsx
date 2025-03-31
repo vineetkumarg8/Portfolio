@@ -40,7 +40,7 @@ class Education extends Component {
                       </h2>
                       
                       <h5>
-                          MACH INDIA(TATA STEEL) <span>March(2024)-Present</span>
+                          Mach India(TATA STEEL) <span>March(2024)-Present</span>
                       </h5>
 
                       <p>
@@ -59,8 +59,9 @@ class Education extends Component {
                     - Improved andoptimized MySQL queries, Creating indexes to enhance query speed handling real-time data for multiple micro services, including
                       video streaming, images, GPS tracking, and alerts alarm.
                       <br></br>
-                    - Enhanceddata integrity by Implementing validation & integrity constraints to maintain high data quality. Removing duplicate records
+                    - Enhanced data integrity by Implementing validation & integrity constraints to maintain high data quality. Removing duplicate records
                       using unique constraints and duplication scripts.
+                      <br></br>
                       <hr></hr> 
                         <b>Skills:</b> Java, Python, Spring mvc, Jquery, GCP, Microservices and Mysql.
                       </i>
