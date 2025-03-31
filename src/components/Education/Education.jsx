@@ -44,7 +44,7 @@ class Education extends Component {
                       </h5>
 
                       <p>
-                      Worked in product team to develop Driver Fatigue Monitoring System (DFMS) Application using mutilayer architecture, 
+                      Worked in product team to develop Driver Fatigue Monitoring System (DFMS) Application using <b>mutilayer architecture, 
                         ensuring high scalability and performance.</b> at{' '}
                         <a target='_blank' href='http://machindia.com/index.html'>
                         <b>Mach India</b>
