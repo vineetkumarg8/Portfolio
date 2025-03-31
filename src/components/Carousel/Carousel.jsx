@@ -56,7 +56,7 @@ export default function CarouselImage() {
               rel='opener noreferrer'
               target='_blank'
             >
-              VIEW REACT PROJECTS <GoProject />
+              REACT PROJECTS <GoProject />
             </a>
             <div className={classes.secondButton}>
               <a
@@ -64,7 +64,7 @@ export default function CarouselImage() {
                 rel='opener noreferrer'
                 target='_blank'
               >
-                VIEW FullStack PROJECTS <GoProject />
+               FullStack PROJECTS <GoProject />
               </a>
             </div>
           </div>
